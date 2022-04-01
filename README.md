@@ -1,7 +1,7 @@
 ### Halo Semua ! 👋
 Perkenalkan nama saya **Stepanus Ryan Andika Candra**.\
 Saat ini saya sedang mendalami dan mempelajari pengembangan aplikasi Android.\
-Ikuti akun [Linkedin](https://www.linkedin.com/in/stepanus-ryan-andika-candra-988b501b5/)ku ya
+Ikuti akun [Linkedin](https://www.linkedin.com/in/stepanus-ryan-andika-candra-988b501b5/) ku ya dan cek beberapa karya ku di playstore [disini](https://play.google.com/store/apps/developer?id=Nusan+Developers)
 
 Terima Kasih
 
