@@ -1,9 +1,13 @@
-### Halo Semua ! 👋
-Perkenalkan nama saya **Stepanus Ryan Andika Candra**.\
-Saat ini saya sedang mendalami dan mempelajari pengembangan aplikasi Android.\
+### Hi! 👋
+My name is **Stepanus Ryan Andika Candra**.\
+I'm currently learning about Android Programming.\
+Follow my [LinkedIn](https://www.linkedin.com/in/stepanus-ryan-andika-candra-988b501b5/) and check my app on [PlayStore](https://play.google.com/store/apps/developer?id=Nusan+Developers)
+
+Thank You and Have a Nice Day. :slightly_smiling_face:
+<!-- Saat ini saya sedang mendalami dan mempelajari pengembangan aplikasi Android.\
 Ikuti akun [Linkedin](https://www.linkedin.com/in/stepanus-ryan-andika-candra-988b501b5/) ku ya dan cek beberapa karya ku di playstore [disini](https://play.google.com/store/apps/developer?id=Nusan+Developers)
 
-Terima Kasih
+Terima Kasih -->
 
 <!--
 **StepanusRyan/StepanusRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
